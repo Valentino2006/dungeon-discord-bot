@@ -15,8 +15,6 @@ Un bot interactivo de **RPG, minería y colección de mascotas** para Discord. D
 | :---: | :---: |
 | ![Refugio de Mascotas](https://raw.githubusercontent.com/placeholder/dungeon-bot/main/assets/preview-pet.png) | ![Animación Hatch GIF](https://raw.githubusercontent.com/placeholder/dungeon-bot/main/assets/preview-hatch.gif) |
 
-> 📌 *Nota: Para mostrar tus propias imágenes, sube las capturas de pantalla a una carpeta llamada `assets/` en tu repositorio y actualiza las rutas anteriores.*
-
 ---
 
 ## 🚀 Características Principales
