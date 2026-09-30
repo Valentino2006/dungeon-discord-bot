@@ -15,7 +15,6 @@ Bot interactivo de **RPG, minería y colección de mascotas** para Discord. Desa
 | :---: | :---: |
 | ![Refugio de Mascotas](./assets/preview-pet.png) | ![Animación Hatch GIF](./assets/preview-hatch.gif) |
 
-> 📌 *Nota: Para mostrar las capturas en GitHub, sube tus imágenes a una carpeta llamada `assets/` en la raíz del repositorio.*
 
 ---
 
@@ -84,8 +83,6 @@ Dungeon-Discord-Bot/
 ---
 
 ## ⚙️️ Despliegue y Mantenimiento Propio
-
-> 📌 **Nota:** Esta guía sirve como referencia de administración interna para el despliegue del bot en el servidor o VPS propio.
 
 1. Instalar dependencias:
    ```bash
