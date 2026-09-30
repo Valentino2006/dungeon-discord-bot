@@ -52,11 +52,17 @@ Bot interactivo de **RPG, minería y colección de mascotas** para Discord. Desa
 
 ```text
 Dungeon-Discord-Bot/
-├── commands/            # Módulos de comandos del bot (!mascota, !stats, !rpg)
+├── commands/            # Módulos de comandos del bot
 │   ├── mascota.js
 │   ├── rpg.js
 │   └── stats.js
-├── data/                # Datos estáticos (Mascotas, Rangos, Probabilidades)
+│   └── inventario.js
+│   └── craft.js
+│   └── mazmorra.js
+│   └── oro.js
+│   └── prestigio.js
+│   └── tienda.js
+├── data/                # Datos estáticos
 │   └── pets.js
 ├── utils/               # Utilidades, Canvas, Cooldowns y Base de Datos
 │   ├── cooldown.js
