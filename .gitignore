@@ -1,0 +1,14 @@
+# Dependencias
+node_modules/
+
+# Archivos de variables de entorno y credenciales (¡SÚPER IMPORTANTE!)
+.env
+.env.local
+
+# Base de datos SQLite local (para no sobreescribir datos)
+*.sqlite
+*.db
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
